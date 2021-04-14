@@ -36,3 +36,15 @@
  - < uses-permission android:name="android.permission.CAMERA" />
  -  < uses-feature android:name="android.hardware.camera.any" >
 
+
+
+#  *Step 3*
+ > *activity_main.xml*
+ 
+ - Add button. -> id: takePicture
+ - Add imageView.  -> id: imageView
+ - Add EditText. -> id: textView
+
+
+
+
