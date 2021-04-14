@@ -4,12 +4,14 @@
 
 *en* - Taking the texts in the photograph with the help of artificial intelligence.
 
-### @ *Step 1*
+#  *Step 1*
 
- - build.gradle(app)
-plugins { 
+ - *build.gradle(app)*
+
+ - plugins { 
 
         ...
+        
         id 'kotlin-android-extensions' 
         }
 
