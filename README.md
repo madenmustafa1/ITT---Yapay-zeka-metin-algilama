@@ -8,13 +8,12 @@
 
  ### *build.gradle(app)*
 
- - plugins { 
-
+ - plugins {
+    
         ...
         
         id 'kotlin-android-extensions' 
         }
-
 - dependencies {
 
         ...
