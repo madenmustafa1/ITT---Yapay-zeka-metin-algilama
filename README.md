@@ -1,4 +1,4 @@
-# ITT 
+### ITT 
 
 *tr* - Yapay zeka yardımıyla fotoğraftaki yazıları almak.
 
@@ -10,7 +10,6 @@
 plugins { 
 
         ...
-        
         id 'kotlin-android-extensions' 
         }
 
