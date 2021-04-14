@@ -127,6 +127,7 @@
     }
 
 -  fun readText(){
+  
         if (Build.VERSION.SDK_INT < 28){
         
             bitmap = MediaStore.Images.Media.getBitmap(application.contentResolver, image_uri)
