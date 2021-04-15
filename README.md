@@ -1,4 +1,4 @@
-### ITT 
+### ITT  
 
 *tr* - Yapay zeka yardımıyla fotoğraftaki yazıları almak.
 
