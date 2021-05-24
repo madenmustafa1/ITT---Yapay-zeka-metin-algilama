@@ -136,12 +136,7 @@
         }
         else {
         
-/*
 
-            val source = ImageDecoder.createSource(this.contentResolver, image_uri!!)
-            bitmap = ImageDecoder.decodeBitmap(source)
-            image = InputImage.fromBitmap(bitmap!!, 0)
- */
  
             bitmap = MediaStore.Images.Media.getBitmap(application.contentResolver, image_uri)
             image = InputImage.fromBitmap(bitmap, 0)
